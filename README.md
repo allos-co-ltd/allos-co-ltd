@@ -1,10 +1,10 @@
- # Hi, I'm Ibrahim Herith.! 👋
+ # Allos Company Limited
 
-I'm passionate about creating interactive and engaging user experiences.
 
-![<ibrahimherith>'s Stats](https://github-readme-stats.vercel.app/api?username=ibrahimherith&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<!--## 🚀 About Me
+![<allos-co-ltd>'s Stats](https://github-readme-stats.vercel.app/api?username=allos-co-ltd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<!--## 🚀 About Us
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
@@ -12,17 +12,11 @@ I'm passionate about creating interactive and engaging user experiences.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 -->
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb)](https://skillicons.dev)
+## About Us
 
-## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Expressjs, a powerful Nodejs web framework.
-  - Diving into MongoDb for efficient and scalable database management.
+
+
 
 <!--
  ## 🏆 Achievements
