@@ -12,7 +12,7 @@
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 -->
 
-## About Us
+## 🚀 About Us
 
 
 
@@ -26,7 +26,6 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/itsibrah_)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
